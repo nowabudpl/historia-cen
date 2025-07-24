@@ -1,1 +1,179 @@
-
+{
+  "Warszawskie Mazury": [
+    {
+      "№": "1A",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "1B",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "2A",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "2B",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "3A",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "5A",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "5B",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "6A",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "6B",
+      "Dom, m2": 90,
+      "Działka, m2": 400,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "тест",
+      "Dom, m2": "тест",
+      "Działka, m2": "тест",
+      "Cena, zł": "тест",
+      "Data zmiany": "",
+      "Komentarz": "тест"
+    }
+  ],
+  "Falenty Premium": [
+    {
+      "№": 17,
+      "Dom, m2": 152,
+      "Działka, m2": 375,
+      "Cena, zł": 1099000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 18,
+      "Dom, m2": 152,
+      "Działka, m2": 375,
+      "Cena, zł": 1099000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 21,
+      "Dom, m2": 152,
+      "Działka, m2": 375,
+      "Cena, zł": 1099000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 22,
+      "Dom, m2": 152,
+      "Działka, m2": 375,
+      "Cena, zł": 1099000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 27,
+      "Dom, m2": 152,
+      "Działka, m2": 375,
+      "Cena, zł": "",
+      "Data zmiany": "",
+      "Komentarz": ""
+    }
+  ],
+  "Leśna Przystań": [
+    {
+      "№": "2A",
+      "Dom, m2": 90,
+      "Działka, m2": 750,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "4A",
+      "Dom, m2": 90,
+      "Działka, m2": 750,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "5A",
+      "Dom, m2": 90,
+      "Działka, m2": 750,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": "5B",
+      "Dom, m2": 90,
+      "Działka, m2": 750,
+      "Cena, zł": 649000,
+      "Data zmiany": "2025-06-30T21:00:00.000Z",
+      "Komentarz": "-"
+    }
+  ],
+  "Leśna Łąka": [
+    {
+      "№": 1,
+      "Dom, m2": 152,
+      "Działka, m2": 500,
+      "Cena, zł": 899000,
+      "Data zmiany": "2025-07-17T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 2,
+      "Dom, m2": 152,
+      "Działka, m2": 500,
+      "Cena, zł": 899000,
+      "Data zmiany": "2025-07-17T21:00:00.000Z",
+      "Komentarz": "-"
+    }
+  ],
+  "Forest Park": []
+}
