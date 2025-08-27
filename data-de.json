@@ -159,11 +159,27 @@
       "Komentarz": "-"
     },
     {
+      "№": 1,
+      "Dom, m2": 152,
+      "Działka, m2": 500,
+      "Cena, zł": 987000,
+      "Data zmiany": "2025-08-21T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
       "№": 2,
       "Dom, m2": 152,
       "Działka, m2": 500,
       "Cena, zł": 899000,
       "Data zmiany": "2025-07-17T21:00:00.000Z",
+      "Komentarz": "-"
+    },
+    {
+      "№": 2,
+      "Dom, m2": 152,
+      "Działka, m2": 500,
+      "Cena, zł": 987000,
+      "Data zmiany": "2025-08-21T21:00:00.000Z",
       "Komentarz": "-"
     }
   ],
