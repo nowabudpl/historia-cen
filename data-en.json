@@ -6,7 +6,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "1B",
@@ -14,7 +14,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "2A",
@@ -22,7 +22,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "2B",
@@ -30,7 +30,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "3A",
@@ -38,7 +38,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5A",
@@ -46,7 +46,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5B",
@@ -54,7 +54,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "6A",
@@ -62,7 +62,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "6B",
@@ -70,7 +70,7 @@
       "Działka, m2": 400,
       "Cena, zł": "649000",
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     }
   ],
   "Falenty Premium": [
@@ -80,7 +80,7 @@
       "Działka, m2": 375,
       "Cena, zł": 1099000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 18,
@@ -88,7 +88,7 @@
       "Działka, m2": 375,
       "Cena, zł": 1099000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 21,
@@ -96,7 +96,7 @@
       "Działka, m2": 375,
       "Cena, zł": 1099000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 22,
@@ -104,7 +104,7 @@
       "Działka, m2": 375,
       "Cena, zł": 1099000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 27,
@@ -112,7 +112,7 @@
       "Działka, m2": 375,
       "Cena, zł": "",
       "Data zmiany": "",
-      "Komentarz": ""
+      "Cena za m2": ""
     }
   ],
   "Leśna Przystań": [
@@ -122,7 +122,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "4A",
@@ -130,7 +130,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5A",
@@ -138,7 +138,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5B",
@@ -146,7 +146,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     }
   ],
   "Leśna Łąka": [
