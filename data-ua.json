@@ -122,7 +122,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "4A",
@@ -130,7 +130,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5A",
@@ -138,7 +138,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": "5B",
@@ -146,7 +146,7 @@
       "Działka, m2": 750,
       "Cena, zł": 649000,
       "Data zmiany": "2025-06-30T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     }
   ],
   "Leśna Łąka": [
@@ -156,7 +156,7 @@
       "Działka, m2": 500,
       "Cena, zł": 899000,
       "Data zmiany": "2025-07-17T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 1,
@@ -164,7 +164,7 @@
       "Działka, m2": 500,
       "Cena, zł": 987000,
       "Data zmiany": "2025-08-21T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 2,
@@ -172,7 +172,7 @@
       "Działka, m2": 500,
       "Cena, zł": 899000,
       "Data zmiany": "2025-07-17T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     },
     {
       "№": 2,
@@ -180,7 +180,7 @@
       "Działka, m2": 500,
       "Cena, zł": 987000,
       "Data zmiany": "2025-08-21T21:00:00.000Z",
-      "Komentarz": "-"
+      "Cena za m2": "-"
     }
   ],
   "Forest Park": []
